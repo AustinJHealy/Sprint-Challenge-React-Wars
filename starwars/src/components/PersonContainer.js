@@ -33,7 +33,7 @@ return (
     
         return(
     
-            <Person key={item.name} name={item.name} height={item.height} mass={item.mass} hairColor={item.hair_color} skinColor={item.skinColor} eyeColor={item.eye_color} birthYear={item.birth_year} gender={item.gender} homeworld={item.homeworld} films={item.films} species={item.species} vehicles={item.vehicles} starships={item.starships} created={item.created} edited={item.edited} url={item.url} />
+            <Person key={item.name} name={item.name} height={item.height} mass={item.mass} hairColor={item.hair_color} skinColor={item.skin_color} eyeColor={item.eye_color} birthYear={item.birth_year} gender={item.gender} homeworld={item.homeworld} films={item.films} species={item.species} vehicles={item.vehicles} starships={item.starships} created={item.created} edited={item.edited} url={item.url} />
   
         )
     
